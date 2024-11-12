@@ -1,0 +1,14 @@
+.profile {
+    grid-area: p;
+}
+
+
+.bigImg {
+    width: 100%;
+    height: 400px;
+    opacity: 1;
+}
+
+.ava{
+    width: 70px;
+}

@@ -1,0 +1,18 @@
+
+.nav {
+    grid-area: n;
+    background-color: #7391e3;
+  }
+
+.item  {
+    color:white;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+   
+}
+
+.item.active{
+    color: gold;
+}
