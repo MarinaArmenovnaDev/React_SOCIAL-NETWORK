@@ -1,7 +1,12 @@
 .item{
+    display: flex;
+    text-align: center;
+    gap: 10px;
     color: rgb(6, 6, 1);
+   
 }
 .item img{ 
-    width: 50px;
+    width: 40px;
     border-radius: 50px;
+   
 }
